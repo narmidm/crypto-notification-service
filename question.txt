@@ -4,6 +4,3 @@ Create a Notification (Input parameters: Current Price of Bitcoin, Daily Percent
 Send a notification to email/emails
 List notifications (Sent, Pending, Failed)
 Update/Delete notification
-
-ajsrinivas@bitgo.com
-junaid.muthukadan@gmail.com
